@@ -1,0 +1,12 @@
+{
+  "app": {
+    "name": "viper-pzn-go",
+    "version": "1.0.0",
+    "author": "Luthfi Izzuddin Hanif"
+  },
+  "database": {
+    "show_sql": true,
+    "host": "localhost",
+    "port": 3306
+  }
+}

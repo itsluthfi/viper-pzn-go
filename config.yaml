@@ -1,0 +1,9 @@
+app:
+  name: "viper-pzn-go"
+  author: "Luthfi Izzuddin Hanif"
+  version: "1.0.0"
+
+database:
+  host: "localhost"
+  port: 3306
+  show_sql: true
